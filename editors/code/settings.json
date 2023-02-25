@@ -6,7 +6,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.smoothScrolling": true,
-  "files.autoSave": "onFocusChanged",
+  "files.autoSave": "onFocusChange",
   "workbench.colorTheme": "GitHub Light",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.list.smoothScrolling": true,

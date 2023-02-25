@@ -15,6 +15,7 @@ alias gca="git add --all && git commit --amend --no-edit"
 alias gco="git checkout"
 alias gd='$DOTLY_PATH/bin/dot git pretty-diff'
 alias gs="git status -sb"
+alias gst="git status"
 alias gf="git fetch --all -p"
 alias gps="git push"
 alias gpsf="git push --force"

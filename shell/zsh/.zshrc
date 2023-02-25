@@ -27,11 +27,3 @@ prompt ${DOTLY_THEME:-codely}
 source "$DOTLY_PATH/shell/zsh/bindings/dot.zsh"
 source "$DOTLY_PATH/shell/zsh/bindings/reverse_search.zsh"
 source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
-
-## START ALIASES
-alias clyproj="cd /Users/ronny/Codely/Projects"
-alias cly="cd /Users/ronny/Codely/"
-alias zshconfig="code /Users/ronny/.zshrc"
-alias o.="open ."
-alias c.="code ."
-## END ALIASES
