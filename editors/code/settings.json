@@ -1,0 +1,18 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "files.autoSave": "onFocusChanged",
+  "workbench.colorTheme": "GitHub Light",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Light",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  }
+}
